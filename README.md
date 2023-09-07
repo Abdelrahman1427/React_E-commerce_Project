@@ -15,7 +15,8 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### Description
-	## The project is an e-commerce website.
+	
+ The project is an e-commerce website.
     •	The user can sign up and create an account, and after that can sign in into his account.
     •	There is a home page.
     •	There is Shop page that contains two lists of products one for Clothes and the other is for electronics.
